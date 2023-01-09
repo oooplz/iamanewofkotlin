@@ -4,4 +4,4 @@
 ![Vue](https://img.shields.io/badge/%20-%20vue-yellow?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-[![Jiacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamanewofkotlin)](https://github.com/anuraghazra/github-readme-stats)
+[![Jiacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=oooplz)](https://github.com/anuraghazra/github-readme-stats)
